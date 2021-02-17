@@ -1,0 +1,225 @@
+/* tablet view */
+
+@media  (min-width: 768px) and (max-width: 960px) {   
+    
+
+
+
+.a{
+  border: 1px solid black;
+  box-sizing: border-box;
+  background-color: #faf3e0;
+border-bottom: 0;
+}
+aside{
+    
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: #1e212d;
+    border-right: 0;
+
+
+}
+
+.c{
+   
+    
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: #d49f0b;
+    border-bottom: 0;
+    border-right: 0;
+
+
+
+}
+.d{
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: #d49f0b;
+    border-bottom: 0;
+}
+.e{
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: #ffefa1;
+    border-bottom: 0;
+    border-right: 0;
+
+}
+.f{
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: #ffefa1;
+    border-bottom: 0;
+    border-right: 0;
+
+}
+.g{
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: #ffefa1;
+    border-bottom: 0;
+    border-right: 0;
+
+}
+.h{
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: #ffefa1;
+    border-bottom: 0;
+}
+.i{
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: #6ddccf;
+
+}}
+/* desktop view */
+@media  (min-width: 961px) {   
+    
+
+
+
+    .a{
+      border: 1px solid black;
+      box-sizing: border-box;
+      background-color: #ffcb91;
+    border-bottom: 0;
+    }
+    aside{
+        
+        border: 1px solid black;
+        box-sizing: border-box;
+        background-color: #94ebcd;
+        border-right: 0;
+    
+    
+    }
+    
+    .c{
+       
+        
+        border: 1px solid black;
+        box-sizing: border-box;
+        background-color: #ffefa1;
+        border-bottom: 0;
+        border-right: 0;
+    
+    
+    
+    }
+    .d{
+        border: 1px solid black;
+        box-sizing: border-box;
+        background-color: #ffefa1;
+        border-bottom: 0;
+    }
+    .e{
+        border: 1px solid black;
+        box-sizing: border-box;
+        background-color: #ffefa1;
+        border-bottom: 0;
+        border-right: 0;
+    
+    }
+    .f{
+        border: 1px solid black;
+        box-sizing: border-box;
+        background-color: #ffefa1;
+        border-bottom: 0;
+        border-right: 0;
+    
+    }
+    .g{
+        border: 1px solid black;
+        box-sizing: border-box;
+        background-color: #ffefa1;
+        border-bottom: 0;
+        border-right: 0;
+    
+    }
+    .h{
+        border: 1px solid black;
+        box-sizing: border-box;
+        background-color: #ffefa1;
+        border-bottom: 0;
+    }
+    .i{
+        border: 1px solid black;
+        box-sizing: border-box;
+        background-color: #faf3e0;
+    
+    }}
+
+    /* mobile */
+@media   (max-width: 767px) { 
+    
+        .a{
+          border: 1px solid black;
+          box-sizing: border-box;
+          background-color: #bdb4aa;
+        border-bottom: 0;
+        }
+        aside{
+            
+            border: 1px solid black;
+            box-sizing: border-box;
+            background-color: #94ebcd;
+            border-bottom: 0;
+        
+        
+        }
+        
+        .c{
+           
+            
+            border: 1px solid black;
+            box-sizing: border-box;
+            background-color: #9dcbe6;
+            border-bottom: 0;
+        
+        
+        
+        }
+        .d{
+            border: 1px solid black;
+            box-sizing: border-box;
+            background-color: #5ba8d4;
+            border-bottom: 0;
+        }
+        .e{
+            border: 1px solid black;
+            box-sizing: border-box;
+            background-color: #1585c5;
+            border-bottom: 0;
+            border-right: 0;
+        
+        }
+        .f{
+            border: 1px solid black;
+            box-sizing: border-box;
+            background-color: #1585c5;
+            border-bottom: 0;
+        
+        }
+        .g{
+            border: 1px solid black;
+            box-sizing: border-box;
+            background-color: #326cd8;
+            border-bottom: 0;
+            border-right: 0;
+        
+        }
+        .h{
+            border: 1px solid black;
+            box-sizing: border-box;
+            background-color: #326cd8;
+            border-bottom: 0;
+        }
+        .i{
+            border: 1px solid black;
+            box-sizing: border-box;
+            background-color: #bbbab6;
+        
+        }}
